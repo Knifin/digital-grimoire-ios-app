@@ -1,2 +1,2 @@
 # digital-grimoire-ios-app
-ios App for the Digital Grimoire tool.
+A wrapper for the Digital Grimoire built for iOS.
