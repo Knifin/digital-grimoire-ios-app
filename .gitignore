@@ -60,3 +60,7 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+Digital Grimoire/.DS_Store
+Digital Grimoire/Assets.xcassets/.DS_Store
+Digital Grimoire/Preview Content/.DS_Store
+.DS_Store
